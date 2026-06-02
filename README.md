@@ -32,9 +32,14 @@ I am a passionate Mobile Application Developer 📱 specializing in Android and 
 
 ### 📊 Github Stats
 
-<div align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=adeeb2002&show_icons=true&theme=radial&height=165" alt="Adeeb's GitHub stats" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=adeeb2002&layout=compact&theme=radial&height=165" alt="Top Langs" />
-</div>
+<p align="left">
+  <!-- كارت يوضح إجمالي المساهمات وأيام العمل المتتالية - مضمون وشغال -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeeb2002&theme=radial" alt="Adeeb's Streak Stats" />
+</p>
+
+<p align="left">
+  <!-- كارت إحصائيات بديل وسريع جداً لملخص الحساب -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adeeb2002&theme=radial" alt="Adeeb's Profile Details" />
+</p>
 
 <br>
