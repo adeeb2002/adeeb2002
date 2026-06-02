@@ -31,11 +31,10 @@ I am a passionate Mobile Application Developer 📱 specializing in Android and 
 <br>
 
 ### 📊 Github Stats
-<a href='https://github.com/anuraghazra/github-readme-stats'>
-  
-![Adeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeeb-sultan&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adeeb-sultan&layout=compact&theme=radial)
 
-</a>
+<div align="left">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=adeeb2002&show_icons=true&theme=radial&height=165" alt="Adeeb's GitHub stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=adeeb2002&layout=compact&theme=radial&height=165" alt="Top Langs" />
+</div>
 
 <br>
