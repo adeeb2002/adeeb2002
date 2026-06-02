@@ -19,7 +19,7 @@ I am a passionate Mobile Application Developer 📱 specializing in Android and 
 
 ### 🔨 Languages and Tools:
 
-<a href="https://flutter.dev" target="_blank"> <img align="left" alt="Flutter" height ="42px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/flutter.svg"> </a> 
+<a href="https://flutter.dev" target="_blank"> <img align="left" alt="Flutter" height ="42px" src="https://flutter.dev/"> </a> 
 <a href="https://dart.dev" target="_blank"> <img align="left" alt="Dart" height ="42px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/dart.svg"> </a> 
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
