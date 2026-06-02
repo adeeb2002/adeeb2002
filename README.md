@@ -19,13 +19,13 @@ I am a passionate Mobile Application Developer 📱 specializing in Android and 
 
 ### 🔨 Languages and Tools:
 
-<a href="https://flutter.dev" target="_blank"> <img align="left" alt="Flutter" height ="42px" src="https://flutter.dev/"> </a> 
-<a href="https://dart.dev" target="_blank"> <img align="left" alt="Dart" height ="42px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/dart.svg"> </a> 
+<a href="https://flutter.dev" target="_blank"> <img align="left" alt="Flutter" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> </a> 
+<a href="https://dart.dev" target="_blank"> <img align="left" alt="Dart" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> </a> 
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.svg" alt="linux" height='42px'/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height='42px'/> </a>
 
 <br>
 <br>
