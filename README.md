@@ -11,10 +11,9 @@ I am a passionate Mobile Application Developer 📱 specializing in Android and 
 - 🔭 &nbsp; I’m currently working on advanced mobile apps and optimizing state management.
 - 🤝 &nbsp; I’m looking to collaborate on open-source Flutter plugins and Android libraries.
 - 🌱 &nbsp; I’m always expanding my skills in clean architecture and advanced local caching.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/adeeb-sultan?tab=repositories) *(تأكد من تعديل الرابط لليوزر الخاص بك)*
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/adeeb2002)
 - 💬 &nbsp; Ask me about anything related to Flutter, Android, or Firebase, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/) *(يمكنك إضافة رابط حسابك هنا)*
-
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adeeb2002)
 <br>
 
 ### 🔨 Languages and Tools:
@@ -33,13 +32,8 @@ I am a passionate Mobile Application Developer 📱 specializing in Android and 
 ### 📊 Github Stats
 
 <p align="left">
-  <!-- كارت يوضح إجمالي المساهمات وأيام العمل المتتالية - مضمون وشغال -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeeb2002&theme=radial" alt="Adeeb's Streak Stats" />
-</p>
-
-<p align="left">
-  <!-- كارت إحصائيات بديل وسريع جداً لملخص الحساب -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adeeb2002&theme=radial" alt="Adeeb's Profile Details" />
+  <img src="https://img.shields.io/github/followers/adeeb2002?label=Followers&style=for-the-badge&logo=github&color=007ACC" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/adeeb2002?label=Total%20Stars&style=for-the-badge&logo=github&color=FFD700" alt="Stars" />
 </p>
 
 <br>
