@@ -1,4 +1,4 @@
-## Hey 👋, I'm Adeeb Sultan!
+## Hey , I'm Adeeb Sultan!
 
 I am a passionate Mobile Application Developer 📱 specializing in Android and Cross-Platform development. I love crafting high-quality, smooth, and scalable mobile experiences using Flutter, Dart, and Java, and exploring new tech stacks to build cool stuff 🛠️. 
 <br/>
@@ -6,17 +6,17 @@ I am a passionate Mobile Application Developer 📱 specializing in Android and 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
-### 🧐 More About Me:
+###  More About Me:
 
-- 🔭 &nbsp; I’m currently working on advanced mobile apps and optimizing state management.
-- 🤝 &nbsp; I’m looking to collaborate on open-source Flutter plugins and Android libraries.
-- 🌱 &nbsp; I’m always expanding my skills in clean architecture and advanced local caching.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/adeeb2002)
-- 💬 &nbsp; Ask me about anything related to Flutter, Android, or Firebase, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adeeb2002)
+-  &nbsp; I’m currently working on advanced mobile apps and optimizing state management.
+-  &nbsp; I’m looking to collaborate on open-source Flutter plugins and Android libraries.
+-  &nbsp; I’m always expanding my skills in clean architecture and advanced local caching.
+-  &nbsp; Most of my projects are available on [Github](https://github.com/adeeb2002)
+-  &nbsp; Ask me about anything related to Flutter, Android, or Firebase, I am happy to help;
+-  &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adeeb2002)
 <br>
 
-### 🔨 Languages and Tools:
+###  Languages and Tools:
 
 <a href="https://flutter.dev" target="_blank"> <img align="left" alt="Flutter" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> </a> 
 <a href="https://dart.dev" target="_blank"> <img align="left" alt="Dart" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> </a> 
@@ -29,7 +29,7 @@ I am a passionate Mobile Application Developer 📱 specializing in Android and 
 <br>
 <br>
 
-### 📊 Github Stats
+###  Github Stats
 
 <p align="left">
   <img src="https://img.shields.io/github/followers/adeeb2002?label=Followers&style=for-the-badge&logo=github&color=007ACC" alt="Followers" />
