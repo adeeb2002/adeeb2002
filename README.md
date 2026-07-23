@@ -1,6 +1,6 @@
 ## Hey , I'm Adeeb Sultan!
 
-I am a passionate Mobile Application Developer 📱 specializing in Android and Cross-Platform development. I love crafting high-quality, smooth, and scalable mobile experiences using Flutter, Dart, and Java, and exploring new tech stacks to build cool stuff 🛠️. 
+I am a passionate Mobile Application Developer 📱 specializing in Android and Cross-Platform development. I love crafting high-quality, smooth, and scalable mobile experiences using Flutter, Dart, and Java, and exploring new tech stacks to build cool stuff . 
 <br/>
 <br/>
 
