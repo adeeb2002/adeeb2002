@@ -1,39 +1,45 @@
-## Hey , I'm Adeeb Sultan!
+<div align="center">
 
-I am a passionate Mobile Application Developer 📱 specializing in Android and Cross-Platform development. I love crafting high-quality, smooth, and scalable mobile experiences using Flutter, Dart, and Java, and exploring new tech stacks to build cool stuff . 
+<!-- Header Banner Block -->
+<a href="https://github.com/adeeb2002">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A9B1D6&center=true&vCenter=true&width=500&lines=Adeeb+Sultan;Software+Engineer+%26+AI+Specialist;Mobile+App+Developer+(Flutter)" alt="Header Banner" />
+</a>
+
 <br/>
+
+<!-- Badges Header -->
+![](https://img.shields.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![](https://img.shields.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-###  More About Me:
+<!-- GitHub Stats Grid -->
+<a href="https://github.com/adeeb2002">
+  <img src="https://github-readme-stats.vercel.app/api?username=adeeb2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeeb2002&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</a>
 
--  &nbsp; I’m currently working on advanced mobile apps and optimizing state management.
--  &nbsp; I’m looking to collaborate on open-source Flutter plugins and Android libraries.
--  &nbsp; I’m always expanding my skills in clean architecture and advanced local caching.
--  &nbsp; Most of my projects are available on [Github](https://github.com/adeeb2002)
--  &nbsp; Ask me about anything related to Flutter, Android, or Firebase, I am happy to help;
--  &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adeeb2002)
-<br>
+<br/><br/>
 
-###  Languages and Tools:
+<!-- Tech Stack Section -->
+### 🛠 TECH STACK
 
-<a href="https://flutter.dev" target="_blank"> <img align="left" alt="Flutter" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> </a> 
-<a href="https://dart.dev" target="_blank"> <img align="left" alt="Dart" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> </a> 
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height='42px'/> </a>
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `Dart` `Python` `Java` `C++` `JavaScript` |
+| **Frameworks** | `Flutter` `Android SDK` `Riverpod` `Hive` |
+| **Backend & Cloud** | `Firebase` `Supabase` `Node.js` `Google Cloud` |
+| **Systems & Tools** | `Linux` `Git / GitHub` `Docker` `OneSignal` |
 
-<br>
-<br>
+<br/>
 
-###  Github Stats
+<!-- Social & Contact Buttons -->
+### 📬 CONNECT WITH ME
 
-<p align="left">
-  <img src="https://img.shields.io/github/followers/adeeb2002?label=Followers&style=for-the-badge&logo=github&color=007ACC" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/adeeb2002?label=Total%20Stars&style=for-the-badge&logo=github&color=FFD700" alt="Stars" />
-</p>
+[![LinkedIn](https://img.shields.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adeeb2002)
+[![Gmail](https://img.shields.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-<br>
+</div>
